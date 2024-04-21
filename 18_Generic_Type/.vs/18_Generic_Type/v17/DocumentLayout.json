@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\zoocage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\wolf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\meet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\elephant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\models\\grass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\enums\\typemeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\enums\\typemeet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\exceptions\\wrongenterparamexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\exceptions\\wrongenterparamexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|c:\\users\\ibrah\\onedrive\\masa\u00FCst\u00FC\\codeacademy\\18_generic_type\\18_generic_type\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8668FD03-4E99-4277-84C7-BB3C861EB383}|18_Generic_Type\\18_Generic_Type.csproj|solutionrelative:18_generic_type\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZooCage.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\ZooCage.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\ZooCage.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\ZooCage.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\ZooCage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:57:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grass.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Grass.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Grass.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Grass.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Grass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:56:11.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TypeMeet.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Enums\\TypeMeet.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Enums\\TypeMeet.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Enums\\TypeMeet.cs",
+              "RelativeToolTip": "18_Generic_Type\\Enums\\TypeMeet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:53:10.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meet.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Meet.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Meet.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Meet.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Meet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:51:51.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Food.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Food.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Food.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Food.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:50:49.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Elephant.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Elephant.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Elephant.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Elephant.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Elephant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:49:08.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wolf.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Wolf.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Wolf.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Wolf.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Wolf.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:06:44.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Program.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Program.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Program.cs",
+              "RelativeToolTip": "18_Generic_Type\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:52:04.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Models\\Animal.cs",
+              "RelativeToolTip": "18_Generic_Type\\Models\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:52:47.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WrongEnterParamException.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Exceptions\\WrongEnterParamException.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Exceptions\\WrongEnterParamException.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Exceptions\\WrongEnterParamException.cs",
+              "RelativeToolTip": "18_Generic_Type\\Exceptions\\WrongEnterParamException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T10:41:49.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "18_Generic_Type\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\ibrah\\OneDrive\\Masa\u00FCst\u00FC\\CodeAcademy\\18_Generic_Type\\18_Generic_Type\\Enums\\Gender.cs",
+              "RelativeToolTip": "18_Generic_Type\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T09:57:33.004Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
